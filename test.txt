@@ -1,0 +1,23 @@
+// const shuffle = (array) => {
+//     for (let i = array.length - 1; i > 0; i--) {
+//         const j = Math.floor(Math.random() * (i + 1));
+//         [array[i], array[j]] = [array[j], array[i]];
+//     }
+//     return array;
+// }
+(--------------------------------------------------------------------------------------------)
+// const CreateButtons = () => {
+//     return shuffledNumbers.map((index) => {
+//         const button = document.createElement('button');
+//         button.className = 'button';
+//         button.textContent = index + 1;
+//         return button;
+//     });
+// }
+(--------------------------------------------------------------------------------------------)
+// console.log(Buttons.length);
+// let randomButtons = [...Buttons,Buttons[Math.floor(Math.random() * Buttons.length)]];
+// console.log(randomButtons.length);
+(--------------------------------------------------------------------------------------------)
+// const shuffledNumbers = shuffle(randomButtons);
+// console.log(shuffledNumbers.length);
